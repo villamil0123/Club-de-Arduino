@@ -1,5 +1,7 @@
+///Definimos variables///
 const int ledr=13,leda=12,ledv=11;
 int cont;
+
 
 
 void setup()
